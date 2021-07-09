@@ -1,0 +1,40 @@
+h1 {
+    color: brown;
+}
+
+/* {
+    border: solid;
+}*/
+
+.header{
+    background-color: #00f7ff;
+    display: flex;
+    justify-content: space-evenly;
+}
+.menu{
+    background-color: #00f7ff;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1cm;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+
+display: flex;
+flex-direction: column-reverse;
+justify-content: flex-start;
+
+
+}
+
+.text{
+font-weight: bolder;
+text-align: center;
+background-image: url("2345.png");
+}
+
